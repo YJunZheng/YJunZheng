@@ -1,4 +1,4 @@
-<img alt="GIF" align="right" height="370px" src="https://github.com/YJunZheng/YJunZheng/blob/master/assets/gifs/spongebob.gif"/>
+<img alt="GIF" align="right" height="320px" src="https://github.com/YJunZheng/YJunZheng/blob/master/assets/gifs/spongebob.gif"/>
 
 ### 👋 Hey, I'm Jun
 - I'm a first-year computer engineering student at UWaterloo
