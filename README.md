@@ -2,7 +2,7 @@
 
 ### 👋 Hey, I'm Jun
 - I'm a second-year computer engineering student at UWaterloo
-- I enjoy video games, video editting and cooking
+- I enjoy video games, video editing and cooking
 - I'm interested in software and web development
 
 ### ⌨️ Languages 
@@ -12,6 +12,8 @@
   <img title="HTML" alt="HTML" src="https://github.com/YJunZheng/YJunZheng/blob/master/assets/icons/HTML.png" height="40px">
   <img title="CSS" alt="CSS" src="https://github.com/YJunZheng/YJunZheng/blob/master/assets/icons/CSS.png" height="40px">
   <img title="JS" alt="JS" src="https://github.com/YJunZheng/YJunZheng/blob/master/assets/icons/JS.png" height="40px">
+  <img title="NodeJS" alt="NodeJS" src="https://github.com/YJunZheng/YJunZheng/blob/master/assets/icons/node.png" height="40px">
+  <img title="VueJS" alt="VueJS" src="https://github.com/YJunZheng/YJunZheng/blob/master/assets/icons/vue.png" height="40px">
   <img title="PHP" alt="PHP" src="https://github.com/YJunZheng/YJunZheng/blob/master/assets/icons/PHP.png" height="40px">
   <img title="MySQL" alt="MySQL" src="https://github.com/YJunZheng/YJunZheng/blob/master/assets/icons/MySQL.png" height="40px">
 </div>
