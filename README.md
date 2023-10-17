@@ -1,7 +1,7 @@
 <img alt="GIF" align="right" height="320px" src="https://github.com/YJunZheng/YJunZheng/blob/master/assets/gifs/spongebob.gif"/>
 
 ### 👋 Hey, I'm Jun
-- I'm a second-year computer engineering student at UWaterloo
+- I'm a third-year computer engineering student at UWaterloo
 - I enjoy video games, video editing and cooking
 - I'm interested in software and web development
 
